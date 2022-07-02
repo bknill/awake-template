@@ -1,10 +1,10 @@
 ---
 items:
-  - text: Menu One
+  - text: Tokens
     url: "#"
-  - text: Menu Two
+  - text: The rooms
     url: "#"
-  - text: Menu Three
+  - text: The plan
     url: "#"
   - text: Blog
     url: "/blog"

@@ -1,14 +1,14 @@
 ---
 links:
-  - title: Netlify CMS
-    url: "https://www.netlifycms.org/"
-    desc: Open source content management for your Git workflow
-  - title: Eleventy
-    url: "https://www.11ty.dev/"
-    desc: Eleventy is a simpler static site generator.
-  - title: Alpine.js
-    url: "https://github.com/alpinejs/alpine"
-    desc: A minimal framework for composing JavaScript behavior in your markup.
-  - title: Tailwind CSS
-    url: "https://tailwindcss.com/"
-    desc: A utility-first CSS framework for rapidly building custom designs.
+  - title: NFT Timeshares
+    desc: NFT timeshares for digital nomads
+    src: "engine.webp"
+  - title: Oil Tanker in London
+    desc: Unique place to call home
+    src: "flat2.webp"
+  - title: Get a token
+    desc: Get your token now
+    src: "ext1.webp"
+  - title: See the plan
+    desc: Get involved in the community
+    src: "bed1.webp"
