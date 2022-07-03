@@ -1,10 +1,10 @@
 ---
 items:
-  - text: Tokens
-    url: "#"
-  - text: The rooms
-    url: "#"
+  - text: NFT Timeshares
+    url: "/nft_timeshares"
+  - text: The vessel
+    url: "/converted_oil_tanker"
   - text: The plan
-    url: "#"
+    url: "/buy_a_timeshare"
   - text: Blog
     url: "/blog"

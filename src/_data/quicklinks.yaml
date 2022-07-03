@@ -3,12 +3,16 @@ links:
   - title: NFT Timeshares
     desc: NFT timeshares for digital nomads
     src: "engine.webp"
+    target: "nft_timeshares"
   - title: Oil Tanker in London
     desc: Unique place to call home
     src: "flat2.webp"
+    target: "converted_oil_tanker"
   - title: Get a token
     desc: Get your token now
     src: "ext1.webp"
+    target: "buy_a_timeshare"
   - title: See the plan
     desc: Get involved in the community
     src: "bed1.webp"
+    target: "tokens"
